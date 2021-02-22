@@ -1,0 +1,12 @@
+---
+title: "About"
+author: "Marisol"
+date: "22/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We are creating a website for the course 
